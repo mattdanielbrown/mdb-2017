@@ -15,7 +15,7 @@
     "glob": "^7.1.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
-    "gulp-header": "^1.8.8",
+    "gulp-header": "^2.0.9",
     "gulp-jscs": "^4.0.0",
     "gulp-jshint": "^2.0.4",
     "gulp-load-plugins": "^1.4.0",
